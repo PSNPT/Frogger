@@ -1,3 +1,5 @@
+![](./Graphic/main.gif)
+
 # Requirements
 - Java J2SE 1.5 (or later) SDK 
 - [MARS](http://courses.missouristate.edu/kenvollmar/mars/download.htm)
